@@ -1,0 +1,16 @@
+C:\Users\rpmb\source\repos\Dainagon_enc\Dainagon_enc\bin\Debug\net8.0-windows\Dainagon_enc.exe
+C:\Users\rpmb\source\repos\Dainagon_enc\Dainagon_enc\bin\Debug\net8.0-windows\Dainagon_enc.deps.json
+C:\Users\rpmb\source\repos\Dainagon_enc\Dainagon_enc\bin\Debug\net8.0-windows\Dainagon_enc.runtimeconfig.json
+C:\Users\rpmb\source\repos\Dainagon_enc\Dainagon_enc\bin\Debug\net8.0-windows\Dainagon_enc.dll
+C:\Users\rpmb\source\repos\Dainagon_enc\Dainagon_enc\bin\Debug\net8.0-windows\Dainagon_enc.pdb
+C:\Users\rpmb\source\repos\Dainagon_enc\Dainagon_enc\obj\Debug\net8.0-windows\Dainagon_enc.Form1.resources
+C:\Users\rpmb\source\repos\Dainagon_enc\Dainagon_enc\obj\Debug\net8.0-windows\Dainagon_enc.csproj.GenerateResource.cache
+C:\Users\rpmb\source\repos\Dainagon_enc\Dainagon_enc\obj\Debug\net8.0-windows\Dainagon_enc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rpmb\source\repos\Dainagon_enc\Dainagon_enc\obj\Debug\net8.0-windows\Dainagon_enc.AssemblyInfoInputs.cache
+C:\Users\rpmb\source\repos\Dainagon_enc\Dainagon_enc\obj\Debug\net8.0-windows\Dainagon_enc.AssemblyInfo.cs
+C:\Users\rpmb\source\repos\Dainagon_enc\Dainagon_enc\obj\Debug\net8.0-windows\Dainagon_enc.csproj.CoreCompileInputs.cache
+C:\Users\rpmb\source\repos\Dainagon_enc\Dainagon_enc\obj\Debug\net8.0-windows\Dainagon_enc.dll
+C:\Users\rpmb\source\repos\Dainagon_enc\Dainagon_enc\obj\Debug\net8.0-windows\refint\Dainagon_enc.dll
+C:\Users\rpmb\source\repos\Dainagon_enc\Dainagon_enc\obj\Debug\net8.0-windows\Dainagon_enc.pdb
+C:\Users\rpmb\source\repos\Dainagon_enc\Dainagon_enc\obj\Debug\net8.0-windows\Dainagon_enc.genruntimeconfig.cache
+C:\Users\rpmb\source\repos\Dainagon_enc\Dainagon_enc\obj\Debug\net8.0-windows\ref\Dainagon_enc.dll
